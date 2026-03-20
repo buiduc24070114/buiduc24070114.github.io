@@ -1,0 +1,26 @@
+/* Áp dụng cho tất cả paragraph */
+p {
+    background-color: yellow;
+    font-size: 20px;
+    padding: 5px;
+}
+
+/* Class: chữ đỏ */
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+/* ID: ưu tiên cao nhất */
+#special {
+    background-color: black;
+    color: white;
+    font-style: italic;
+    font-size: 28px;
+}
+
+/* Tiêu đề */
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
